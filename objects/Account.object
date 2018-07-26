@@ -229,6 +229,16 @@
         <type>Hierarchy</type>
     </fields>
     <fields>
+        <fullName>Pasta__c</fullName>
+        <externalId>false</externalId>
+        <label>Pasta</label>
+        <precision>18</precision>
+        <required>true</required>
+        <scale>0</scale>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Currency</type>
+    </fields>
+    <fields>
         <fullName>Phone</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
