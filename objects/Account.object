@@ -186,6 +186,17 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>John_hancock2__c</fullName>
+        <caseSensitive>false</caseSensitive>
+        <externalId>true</externalId>
+        <label>John hancock2</label>
+        <length>15</length>
+        <required>true</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>true</unique>
+    </fields>
+    <fields>
         <fullName>NaicsCode</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
