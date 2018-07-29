@@ -32,9 +32,9 @@ installedPackages/*
 
 
 
-classes/copado__*
+#classes/copado__*
 
-triggers/copado__*
+#triggers/copado__*
 
 pages/copado__*
 
